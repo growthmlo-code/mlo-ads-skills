@@ -67,7 +67,7 @@ Each skill ships with a `reference/knowledge-base.md` citing exactly where its r
 
 ---
 
-## Made by MLO Growth
+## Made by M.L.O Growth
 We run paid growth for DTC ecommerce brands. If these help you, the best thank-you is a follow.
 
 - 🌐 [mlo-growth.com](https://mlo-growth.com)
